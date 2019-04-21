@@ -1,0 +1,5 @@
+{
+	"samples" : ["S879Nr2", "S879Nr3", "S879Nr4"],
+	"bam_prefix": "Aligned.sortedByCoord.out.bam"
+
+}
